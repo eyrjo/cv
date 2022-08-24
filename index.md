@@ -6,12 +6,12 @@ title: CV de Jorge Serrano
 _Ferroviario. Trabajador juvenil, comunicador y viajero incansable._
  
 Soy un ~~tiranosaurio~~ ser humano que ama viajar, escribir, leer, hacer fotografías, cocinar, dibujar, y vivir nuevas aventuras y desafíos.  
-Vivo en __Madrid, España__.
 
 <div id="webaddress">
     <a href="mailto:yrjo@tuta.io" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-envelope"></i> yrjo(a)tuta.io</a> <br>
     <a href="https://yrjo.tk" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-house-user"></i> yrjo.tk</a>
 </div>
+
 
 ## Experiencia
 
