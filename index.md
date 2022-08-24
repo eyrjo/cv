@@ -58,6 +58,12 @@ Vivo en __Madrid, España__.
 **Monitor de ocio y tiempo libre**, *Consejería de Educación, Cultura y Deportes de la Comunidad de Madrid*, Madrid, ESPAÑA.
 
 
+## Idiomas
+
+Lengua materna: español
+
+Nivel C1: inglés, portugués
+
 
 <!-- ### Footer
 
