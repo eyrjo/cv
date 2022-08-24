@@ -13,7 +13,6 @@ Vivo en __Madrid, España__.
     <a href="https://yrjo.tk" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-house-user"></i> yrjo.tk</a>
 </div>
 
-
 ## Experiencia
 
 `2022-presente`
@@ -39,7 +38,6 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 `2016`
 **Monitor de actividades y tutor del Servicio Voluntario Europeo**. *Associação Social Recreativa Juventude Vila Fonche*. Arcos de Valdevez, Portugal.
 
-
 ## Educación
 
 `2013-2014`
@@ -47,7 +45,6 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 
 `2009-2014`
 **Licenciatura en Periodismo**. *Universidad Complutense de Madrid*. Madrid, España.
-
 
 ## Formación
 
@@ -57,7 +54,6 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 `2009-2011`
 **Monitor de ocio y tiempo libre**. *Consejería de Educación, Cultura y Deportes de la Comunidad de Madrid*, Madrid, España.
 
-
 ## Proyectos
 
 **Asociación Ampersand Europa**. Promoción de proyectos europeos para la juventud –Erasmus+, Cuerpo Europeo de Solidaridad–.
@@ -66,7 +62,6 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 
 **Asociación Andén 1**. Promoción de la historia y evolución del metro de Madrid.
 
-
 ## Habilidades
 
 **Discurso en público** \| **Aprendizaje autónomo** \| **Trabajo en equipo** \| **Creatividad** \| **Facilitación gráfica**  
@@ -74,7 +69,6 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 **Informática:** *diseño gráfico*, *Wordpress*, *HTML/CSS*, *edición de imágenes y vídeo*, *herramientas Office*, *gestión de redes sociales*.  
 
 **Carnet de conducir:** B  
-
 
 ## Idiomas
 
