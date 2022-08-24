@@ -2,7 +2,7 @@
 layout: cv
 title: CV de Jorge Serrano
 ---
-# Jorge Serrano
+# Jorge Serrano Molina  
 _Factor de circulación @ <a href="https://adif.es">ADIF</a>_
 
 Además, soy trabajador juvenil, comunicador y un viajero incansable.
@@ -29,12 +29,12 @@ Vivo en __Madrid, España__.
 **Factor de circulación**, *Administrador de Infraestructuras Ferroviarias*, Madrid, ESPAÑA.
 
 `2021-2022`
-**Técnico de información juvenil**, *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*, Madrid, ESPAÑA.
-    Funciones desempeñadas en la oficina de información juvenil (**Europa Joven Madrid**)[https://europajoven.org] del *Ayuntamiento de Madrid*
+**Técnico de información juvenil**, *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*, Madrid, ESPAÑA.  
+    Funciones desempeñadas en la oficina de información juvenil **(Europa Joven Madrid)[https://europajoven.org]** del *Ayuntamiento de Madrid*
 
 `2019-2021`
-**Informador juvenil**, *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*, Madrid, ESPAÑA.
-    Funciones desempeñadas en el (**Espacio para el Voluntariado**)[https://www.fundacionmontemadrid.es/proyecto/espacio-voluntariado-madrid/] de *Fundación Montemadrid*
+**Informador juvenil**, *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*, Madrid, ESPAÑA.  
+    Funciones desempeñadas en el **(Espacio para el Voluntariado)[https://www.fundacionmontemadrid.es/proyecto/espacio-voluntariado-madrid/]** de *Fundación Montemadrid*
 
 `2018`
 **Monitor de actividades**, *Associação Social Recreativa Juventude Vila Fonche*, Arcos de Valdevez, PORTUGAL.
