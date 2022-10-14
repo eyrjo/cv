@@ -16,7 +16,7 @@ Soy un ~~tiranosaurio~~ ser humano que ama viajar, escribir, leer, hacer fotogra
 ## Experiencia
 
 `2022-presente`
-**Factor de circulación**. *Administrador de Infraestructuras Ferroviarias*. Madrid, España.
+**Responsable de circulación**. *Administrador de Infraestructuras Ferroviarias*. Madrid, España.
 
 `2021-2022`
 **Técnico de información juvenil**. *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*. Madrid, España.  
