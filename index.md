@@ -31,8 +31,8 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 
 `2017-2018`
 **Guía-intérprete**. *Associação Intercultural de Amigos da Mobilidade*. Barcelos, Portugal.
-<!-- 
-`2017`
+
+<!-- `2017`
 **Técnico de comunicación y coordinador de proyectos europeos**. *Colega, Colectivo LGBT de Madrid*. Madrid, España.
 
 `2016`
