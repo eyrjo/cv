@@ -30,13 +30,13 @@ Funciones desempeñadas en el [Espacio para el Voluntariado](https://www.fundaci
 **Monitor de actividades**. *Associação Social Recreativa Juventude Vila Fonche*. Arcos de Valdevez, Portugal.
 
 `2017-2018`
-**Guía traductor de grupos internacionales**. *Associação Intercultural de Amigos da Mobilidade*. Barcelos, Portugal.
-
+**Guía-intérprete**. *Associação Intercultural de Amigos da Mobilidade*. Barcelos, Portugal.
+<!-- 
 `2017`
 **Técnico de comunicación y coordinador de proyectos europeos**. *Colega, Colectivo LGBT de Madrid*. Madrid, España.
 
 `2016`
-**Monitor de actividades y tutor del Servicio Voluntario Europeo**. *Associação Social Recreativa Juventude Vila Fonche*. Arcos de Valdevez, Portugal.
+**Monitor de actividades y tutor del Servicio Voluntario Europeo**. *Associação Social Recreativa Juventude Vila Fonche*. Arcos de Valdevez, Portugal.-->
 
 ## Educación
 
