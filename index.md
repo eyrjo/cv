@@ -20,7 +20,7 @@ Soy un ~~tiranosaurio~~ ser humano que ama viajar, escribir, leer, hacer fotogra
 
 `2021-2022`
 **Técnico de información juvenil**. *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*. Madrid, España.  
-Funciones desempeñadas en la oficina de movilidad europea [Europa Joven Madrid](https://europajoven.org) del *Ayuntamiento de Madrid*
+Funciones desempeñadas en la oficina [Europa Joven Madrid](https://europajoven.org) del *Ayuntamiento de Madrid*
 
 `2019-2021`
 **Informador juvenil**. *Coordinadora Infantil y Juvenil de Tiempo Libre de Vallecas*. Madrid, España.  
@@ -79,6 +79,6 @@ MERL C1: inglés, portugués.
 
 <!-- ### Footer
 
-Última actualización: agosto 2022 -->
+Última actualización: octubre 2022 -->
 
 
