@@ -9,7 +9,7 @@ Soy un ~~tiranosaurio~~ ser humano que ama viajar, escribir, leer, hacer fotogra
 
 <div id="webaddress">
     <a href="mailto:yrjo@tuta.io" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-envelope"></i> yrjo(a)tuta.io</a> | 
-    <a href="https://yrjo.tk" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-house-user"></i> yrjo.tk</a>
+    <a href="https://yrjo.eu" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-house-user"></i> yrjo.eu</a>
 </div>
 
 
@@ -88,6 +88,6 @@ MERL C1: inglés, portugués.
 
 <!-- ### Footer
 
-Última actualización: octubre 2022 -->
+Última actualización: octubre 2024 -->
 
 
